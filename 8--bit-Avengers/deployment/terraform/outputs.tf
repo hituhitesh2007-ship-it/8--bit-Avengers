@@ -1,0 +1,2 @@
+﻿# outputs.tf
+# TODO: implement

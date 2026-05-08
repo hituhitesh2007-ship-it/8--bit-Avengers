@@ -1,0 +1,2 @@
+﻿// SkillScore.jsx
+// TODO: implement
